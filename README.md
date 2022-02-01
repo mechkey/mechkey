@@ -1,4 +1,3 @@
 -  Hi, I’m @mechkey
--  I’m interested in Graduate jobs, SQL, PHP, remote or Edinburgh
 -  I’m currently learning Python 
 -  Reach me at https://www.linkedin.com/in/luke-dba/
